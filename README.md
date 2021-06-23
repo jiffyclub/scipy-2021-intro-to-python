@@ -1,6 +1,6 @@
 # Introduction to Python at SciPy 2020
 
-Monday, July 6 from 9:00 AM - 1:00 PM CDT
+Monday, July 12 from 9:00 AM - 1:00 PM CDT
 (With tutorial setup help from 8:00 AM - 9:00 AM CDT.)
 
 This tutorial is a gentle introduction to Python for folks who are completely
@@ -16,7 +16,7 @@ vocabulary of Python so that you can understand Python documentation and
 interpret code written by others.
 
 See the tutorial description on the conference website
-[here](https://www.scipy2020.scipy.org/tutorial-information).
+[here](https://www.scipy2021.scipy.org/tutorial-information).
 
 ## Setup Instructions
 
@@ -43,7 +43,7 @@ If you'd like to do your own setup, we'll be using the following Python librarie
 
 If you're not able to get Anaconda installed/working you can
 still follow along in class by going to this URL and launching the notebooks:
-https://mybinder.org/v2/gh/jiffyclub/scipy-2020-intro-to-python/main.
+https://mybinder.org/v2/gh/jiffyclub/scipy-2021-intro-to-python/HEAD.
 However, note that Binder will not persist your work and will "forget" about
 it after a period of idleness.
 Make sure to download your work as soon as you finish a lesson so you can
