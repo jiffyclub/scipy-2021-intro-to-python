@@ -1,7 +1,6 @@
-# Introduction to Python at SciPy 2020
+# Introduction to Python at SciPy 2021
 
 Monday, July 12 from 9:00 AM - 1:00 PM CDT
-(With tutorial setup help from 8:00 AM - 9:00 AM CDT.)
 
 This tutorial is a gentle introduction to Python for folks who are completely
 new to it and may not have much experience programming.
