@@ -2,8 +2,7 @@
 
 ## Exercise 1
 
-Make a 5x5 `BlockGrid` with your favorite color (from the "Colors" notebook)
-and assign it to a variable called `grid`.
+Make a 5x5 `BlockGrid` and assign it to a variable called `grid`.
 
 ## Exercise 2
 

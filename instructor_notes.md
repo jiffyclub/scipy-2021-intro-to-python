@@ -49,6 +49,9 @@ file.
 
 #### Variables
 
+- Explain the imports and demo the `colors` variable and `show_color`
+  function. Use IPython's help features and tab completion.
+
 - Use IPython's help features to look at `BlockGrid`'s doc string.
 
 - Demonstrate how to make a new `BlockGrid` object and assign it to a variable.
